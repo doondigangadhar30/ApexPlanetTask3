@@ -24,9 +24,13 @@ Welcome to the **Duck Hunt Game! Task 3**
 Here's a preview of the game in action:
 
 - **Homepage**
-
+![Screenshot_31-10-2024_18147_127 0 0 1](https://github.com/user-attachments/assets/3975cd6c-9870-4755-ae7b-9a7fb9f9b497)
 
 - **Sample Game**
+  ![Screenshot_11-11-2024_202542_doondigangadhar30 github io](https://github.com/user-attachments/assets/3b9beb4a-81f4-46eb-9b9c-d489f52ab220)
+  ![Screenshot_11-11-2024_202652_doondigangadhar30 github io](https://github.com/user-attachments/assets/536b267e-eb3c-4e07-bffc-7828dd24e367)
+
+
 
 ## Links 📌
 
