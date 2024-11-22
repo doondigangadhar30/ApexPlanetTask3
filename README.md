@@ -13,7 +13,7 @@ Welcome to the **Duck Hunt Game! Task 3**
 - Implemented Game B functionality, providing a new level of gameplay.
 
 ## Upcoming Tasks:
-- Adding **Game C** mode to the gameplay.
+- Adding **Home Page** mode to the gameplay.
 
 ## Tech Stack
 - HTML
